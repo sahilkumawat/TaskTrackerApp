@@ -4,7 +4,6 @@ Submitted by: **Sahil Kumawat**
 
 **Task Tracker** is an iOS App that tracks your tasks and presents them in a calendar view. Users can mark tasks as completed and can edit or delete tasks with just a swipe.
 
-Time spent: **1** hours spent in total
 
 ## Required Features
 
