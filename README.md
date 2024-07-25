@@ -1,4 +1,4 @@
-# Project 7 - *Task Tracker*
+# *Task Tracker*
 
 Submitted by: **Sahil Kumawat**
 
